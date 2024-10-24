@@ -3,3 +3,5 @@
 Эта писанина минимум трех летней давности. Так что не обесудте. Недавно попытался причесать
 
 https://htmlpreview.github.io/?https://github.com/IvanSibirevV2/HowTo_GitHub/blob/master/HowTo_GitExt-Port_ReadMe.html#/source
+
+https://github.com/IvanSibirevV2/Dist_HowTo_GitHub
