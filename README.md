@@ -1,10 +1,3 @@
-# HoToGitHub
-Русскоязычные инструкции по Git_GUI: GitExtensions-Portable и  Visual Studio 2019/ТeamExplorer.
-Эта писанина минимум трех летней давности. Так что не обесудте. Недавно попытался причесать
-
-https://htmlpreview.github.io/?https://github.com/IvanSibirevV2/HowTo_GitHub/blob/master/HowTo_GitExt-Port_ReadMe.html#/source
-
-https://github.com/IvanSibirevV2/Dist_HowTo_GitHub
 
 ## Команды для закипания чайника
 ######
@@ -16,7 +9,18 @@ https://github.com/IvanSibirevV2/Dist_HowTo_GitHub
 ######
     git push
     
-Все знать чисто физически невозможно. По этому выделим три уровня знания технологии.
+# HoToGitHub
+Русскоязычные инструкции по Git_GUI: GitExtensions-Portable и  Visual Studio 2019/ТeamExplorer.
+Эта писанина минимум трех летней давности. Так что не обесудте. Недавно попытался причесать
+
+https://htmlpreview.github.io/?https://github.com/IvanSibirevV2/HowTo_GitHub/blob/master/HowTo_GitExt-Port_ReadMe.html#/source
+
+https://github.com/IvanSibirevV2/Dist_HowTo_GitHub
+
+# Все знать чисто физически невозможно. По этому выделим три уровня знания технологии.
+
 Первый уровень предоставляется той краткой инструкцией что приведена выше.
+
 Второй уровень, будем считать - предоставляется технической литературой, обзор которой будет проводиться в этом репозитории.
+
 Третий уровень - все что не вошло в два предыдущих уровня. В идеале, хорошо если третий уровень будет совсем мал по объему. Понимаю что это будет не так. По этому ограничим себя первыми двумя уровнями и постараемся сохранить свои нервы и здоровье. 
