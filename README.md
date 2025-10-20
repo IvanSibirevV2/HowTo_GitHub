@@ -8,6 +8,8 @@
     git commit -m [ComName]
 ######
     git push
+######
+    git reset --soft HEAD~1
     
 # HoToGitHub
 Русскоязычные инструкции по Git_GUI: GitExtensions-Portable и  Visual Studio 2019/ТeamExplorer.
